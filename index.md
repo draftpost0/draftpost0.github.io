@@ -13,7 +13,7 @@ layout: default
 ### SLITHER MAGAZINE 202 - a flash fiction collection
 ### LZ X TLC - an AI-Assisted mashup poetry pamphlet
 ### SOME TWINE THING THAT YOU'VE BEEN LINKED HERE FROM PROBABLY
-### other things that may appear here in time currently being read by people who make things, and too many other, other things (radio, tv, theatre, prose, music/games journalism) to list here.
+### other things that may appear here in time currently being read by people who make things, and many other, other things (radio, tv, theatre, prose, music/games journalism).
 ---
 
 i get to the assessment centre stage for bbc/channel 4 talent and apprenticeship schemes all the time and die on my arse in person, but i'm currently being mentored by a bigwig at penguin random house as a current 'real job' failsafe
