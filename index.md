@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-  <img src="/assets/img/merry-avi.png" alt="Merry, from Stuart Gipp's Merry Hell" height="auto" width="200" style="border-radius:50%">
+  <img src="/assets/img/merry-avi.png" alt="Merry, from Stuart Gipp's webcomic Merry Hell" height="auto" width="200" style="border-radius:50%">
 > invariably: 'a genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
 
 ## (writer, fuck you pay me, all quotes real)
@@ -12,7 +12,7 @@ layout: default
 ## COMING SOON TO A WEB SIGHT NEAR YOU:
 ### SLITHER MAGAZINE 202 - a flash fiction collection
 ### LZ X TLC - an AI-Assisted mashup poetry pamphlet
-### SOME TWINE THING
+### SOME TWINE THING THAT YOU'VE BEEN LINKED HERE FROM PROBABLY
 ### other things that may appear here in time currently being read by people who make things, and too many other, other things (radio, tv, theatre, prose, music/games journalism) to list here.
 ---
 
