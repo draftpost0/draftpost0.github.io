@@ -9,7 +9,7 @@ layout: default
 ## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)
 
 ---
-## COMING SOON TO A WEB SIGHT NEAR YOU:
+## COMING SOON TO A WEB SIGHT NEAR YOU (SAMPLES):
 ### SLITHER MAGAZINE 202 - a flash fiction collection
 ### LZ X TLC - an AI-Assisted mashup poetry pamphlet
 ### SOME TWINE THING THAT YOU'VE BEEN LINKED HERE FROM PROBABLY
