@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="textflash" style="text-align:center"></p>
+        <script src=" https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js "></script>
+        <script>
+            var elem;
+            var fadeDelay = 2000;
+            var readDelay = 10000;
+ 
+            $(document).ready(function() {
+                elem = $('#textflash');
+                elem.css({opacity: 0});
+                var lines = ["bum", "wee", 
+				"'regret to hire oompa loompa', says Great Ormond Street",
+				"if your grave doesn’t have a spectator pullquote on it, you are automatically drafted into the online infinity war",
+				"an entry for 150 quid on anal dilators",
+				"written in what appears to my admittedly untrained eye as ancient aramaic",
+				"it is a load of asinine boring old shit about nothing that will make a difference. i strongly recommend wasting as little of your brain on it as possible.",
+				"your dad cracked his bonce off the cistern having a wank and now he’s sputumed in cum and shame",
+				"smug shit written by an unfunny cunt",
+				"plenty for subs in david copperfield in how much dora spendlow calls david a bad boy",
+				"yes bruv, just got off the phone with dignitas, tried to make an appointment but they only do terminals, mega downer",
+				"shitty mcshit lives in a shit tip pit that is so bigly shit he cannot fit any more shit in it",
+				"linguists in an office under siege by zombies will not move until they figure out what to call them",
+				"a smashed bulb in an already dim shed",
+				"your dad making up for his local being shut by necking b&q's 3 for 2 on emulsion paint",
+				"when you get cocky in the carehome and start doing a stand-up piss but it just hits your knees, that’s amore",
+				"'that's it, that's the tweet' and other things i'm going to carve into you with a stanley knife",
+				"your cat sitting on your face and doing a fart, but you like it",
+				"your dad tied naked and afraid to the bed as i approach him with longing menace and a novelty-sized speculum",
+				"well done to the founding fathers for being as worthless as a melted pack of novelty dog shit - evergreen post",
+				"The film opens with a creepy castle in Hollywood: Victor Gaghan, an evil scientist, is creating his S Club clones and chanting the words S Club, S Club, S Club,",
+				"your dad's masterplan on trial in the hague for modern slavery crimes is to earnestly tell the court that he has always admired, respected, the hashish people and their culture",
+				"the bruce forsyth replica denture salesman is back online",
+				"these cunts expecting serious political discussion and there's me going 'your dad fingers 50plus milf otters for money'",
+				"please don’t hesitate to send us in more photos or your grandad, and we wish him all the best to get that plastic starfish all the way up his arse",
+				"Someone, somewhere, is having an Oedipal moment to Come on Eileen.",
+				"if you are not trying to bomb a landmass, please press 2.",
+				"parallel universe rosamund pike",
+				"heimlich himmler is barred from vidcon after comments he made in a youtube video in 1942 resurface",
+				"ariachnid grande",
+				"rose west becoming a tiktok star in prison",
+				"MEMES INVENTED BY A MAN WITH THE SURNAME CHARLES MEMES",
+				"behind every boy wizard chosen one is a dark lord pegging him",
+				"every twentysomething’s twitter bio reads ‘Freelance writer. Author of ‘Fuck Off, You Fucking Fuck: Fuck Off Right Out Of It, You Fuck’, out this year on @BooksFuck. PhD in all three of your mum’s loose holes. Dog lover.",
+				"The Revolution Will Be Available At Your Leisure On A Monopolised Streaming Service",
+				"a dalek releases a christmas album",
+				"theologians worldwide are disgusted to discover that the cabaret in Hell is a color me badd gig, forever.",
+				"myra hindley funko pop figure",
+				"J.G. Bellend",
+				"'On your Marks', panel show trivia about famous Marks, hosted by Mel Giedroyc"
+				];
+                flashText(lines, 0);
+            });
+ 
+            function flashText(text, i) {
+                if (i == text.length) i = 0;
+                elem.text(text[i]);
+                elem.animate({
+                    opacity: 1
+                }, fadeDelay)
+                .delay(readDelay)
+                .animate({
+                    opacity: 0
+                }, fadeDelay, function() {
+                    flashText(text, i + 1);
+                });
+            }
+        </script>
+    </body>
+</html>

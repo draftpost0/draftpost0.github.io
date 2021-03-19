@@ -1,0 +1,10 @@
+# Site settings
+title: draftpost0
+tag_text: draftpost0
+description: a load of asinine boring old shit about nothing that will make a difference. i strongly recommend wasting as little of your brain on it as possible.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
