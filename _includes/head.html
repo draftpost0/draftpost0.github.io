@@ -7,16 +7,16 @@
             var elem;
             var fadeDelay = 2000;
             var readDelay = 10000;
- 
+
             $(document).ready(function() {
                 elem = $('#textflash');
                 elem.css({opacity: 0});
-                var lines = ["bum", "wee", 
+                var lines = [
+        "it is a load of asinine boring old shit about nothing that will make a difference. i strongly recommend wasting as little of your brain on it as possible.",
 				"'regret to hire oompa loompa', says Great Ormond Street",
 				"if your grave doesn’t have a spectator pullquote on it, you are automatically drafted into the online infinity war",
 				"an entry for 150 quid on anal dilators",
 				"written in what appears to my admittedly untrained eye as ancient aramaic",
-				"it is a load of asinine boring old shit about nothing that will make a difference. i strongly recommend wasting as little of your brain on it as possible.",
 				"your dad cracked his bonce off the cistern having a wank and now he’s sputumed in cum and shame",
 				"smug shit written by an unfunny cunt",
 				"plenty for subs in david copperfield in how much dora spendlow calls david a bad boy",
@@ -49,11 +49,13 @@
 				"theologians worldwide are disgusted to discover that the cabaret in Hell is a color me badd gig, forever.",
 				"myra hindley funko pop figure",
 				"J.G. Bellend",
-				"'On your Marks', panel show trivia about famous Marks, hosted by Mel Giedroyc"
+				"'On your Marks', panel show trivia about famous Marks, hosted by Mel Giedroyc",
+        "bum",
+        "wee",
 				];
                 flashText(lines, 0);
             });
- 
+
             function flashText(text, i) {
                 if (i == text.length) i = 0;
                 elem.text(text[i]);
