@@ -4,7 +4,7 @@ layout: default
   <img src="/assets/img/gatiss.png" alt="Mark Gatiss telling you to fuck off" height="auto" width="200" style="border-radius:50%">
 > invariably: 'a genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
 
-## (writer, fuck you pay me, all quotes real)
+## (writer, fuck you pay me, all quotes real and accurate at some point in time)
 
 ## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)
 
@@ -13,7 +13,7 @@ layout: default
 ### SLITHER MAGAZINE 202 - a flash fiction collection
 ### LZ X TLC - an AI-Assisted mashup poetry pamphlet
 ### SOME TWINE THING THAT YOU'VE BEEN LINKED HERE FROM PROBABLY
-### other things that may appear here in time currently being read by people who make things, and many other, other things (radio, tv, theatre, prose, music/games journalism) as i search for something to do.
+### other things that may appear here in time currently being read by people who make things, and many other, other things (radio, tv, theatre, prose, music/games journalism) as i drift away in hope.
 ---
 
 i get to the assessment centre stage for bbc/channel 4 talent and apprenticeship schemes all the time and die on my arse in person, but i was being mentored by a bigwig at penguin random house as a current 'real job' failsafe so we'll see yeah
