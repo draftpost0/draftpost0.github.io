@@ -22,7 +22,7 @@ invariably:
 //
 <br>
 ### FLOAT (2020) 
-- short story about wanting to flee a shit  20xx life. written at the height of pandemic fever so excuse those undertones but it shows straight narrative chops yeah. early drafts of this reeked strongly of 'pyrotechnics', so this one was an important developmental step.
+- short story about wanting to flee a shit  20xx life. written at the height of pandemic fever so excuse those undertones but it shows straight narrative chops yeah. early drafts of this reeked strongly of 'pyrotechnics', so this one was an important developmental step and that's probably why i value it more than you will.
 <br>
 <br>
 <br>
