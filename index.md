@@ -26,10 +26,9 @@ invariably:
 <br>
 <br>
 <br>
-<br>
 # POEMS
 ### LZ X TLC (2021) 
-- AI-assisted mashup poetry pamphlet. a zine(?) exploring my own development as a writer at this time, sort of a time capsule. i'm told it needs 'a framework to anchor the reader', but also that 'dazzling' and 'highly original': as soon as i know how to square these two positions, or what 'a framework to anchor the reader' actually means, you'll be the first to know. 
+- AI-assisted mashup poetry pamphlet. a zine(?) exploring my own development as a writer at this time, sort of a time capsule. i'm told it needs 'a framework to anchor the reader', but also that it's 'dazzling' and 'highly original': as soon as i know how to square these two positions, or what 'framework to anchor the reader' actually means, you'll be the first to know. 
 <br>
 <br>
 //
