@@ -16,13 +16,10 @@ invariably:
 <br>
 # PROSE
 ### SLITHER MAG 202 (2020) 
-- a flash fiction pamphlet about shit 20xx life and the working for exposure racket. marks the beginning (only the beginning) of some class-a experimentation with the written form.
+- a flash fiction pamphlet about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of some class-a experimentation with the written form. maybe it's all grim and pointless though, fair.
 <br>
 <br>
-//
-<br>
-### FLOAT (2020) 
-- short story about wanting to flee a shit  20xx life. written at the height of pandemic fever so excuse those undertones but it shows straight narrative chops yeah. early drafts of this reeked strongly of 'pyrotechnics', so this one was an important developmental step and that's probably why i value it more than you will.
+i don't do a lot of prose these days, bit dull and boring innit, can't figure out any creative interesting angle on it. bear with me.
 <br>
 <br>
 <br>
@@ -34,24 +31,24 @@ invariably:
 //
 <br>
 ### ?
-- some other 20xx misery poem thing that i haven't finished yet as the art ('art') takes time to work up for each one. probably pamphlet length again for that reason. let's say (2021). a poem from it or at least indicative of it is going to be in a small digital magazine soon, under my secret identity because it's quite awkward actually to submit under a pseudonym you haven't even got. i need to work that out.
+- some other 20xx poem thing that i haven't finished yet as the art ('art') takes time to work up for each one. probably pamphlet length again for that reason. let's say (2021). a poem from it or at least indicative of it is going to be in a small digital magazine soon, under my secret identity because it's quite awkward actually to submit under a pseudonym you haven't even got. i need to work that out.
 <br>
 <br>
 <br>
 # OTHER
 ### SUPER POPULAR (2021) 
-- twine prose + poem stream of consciousness thing about shit 20xx trans life. i'm told there's 'humour', 'surreality' and 'angst'. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's playable enough, good apparently, and writing for video games is something i want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
+- twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst'. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's playable enough, good apparently, and writing for video games is something i want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
 
 <br>
-trying to write stage plays and tv scripts and sitcoms but they're not good. bulk of what i have is from pyrotechnics era and what isn't is either not the standard i want to achieve or a dangled carrot by a production company saying they can get them made so i don't want to fuck that up posting them online. let's say i'm working on all that. the entertainment industry is stupid. i drift away in hope. never journalism. fuck that.
+trying to write stage plays and animated / live action tv scripts and sitcoms but they're not good. bulk of what i have is from pyrotechnics era and what isn't is either not the standard i want to achieve or a dangled carrot by a production company saying they can get them made so i don't want to fuck that up posting them online. let's say i'm working on all that. the entertainment industry is stupid. i drift away in hope. never journalism. fuck that.
 <br>
 
 ---
-current interest: conceptual poems. i'm enjoying the ginsberg-shaped hole that other people seem to enjoy that i fit into. not enough to pay me, natch. i get told my work is challenging to readers, but really i just treat them as intelligent.
+current interest: fuck all. it *was* conceptual poems, and this kind of existential word salad stuff, and i *was* the enjoying ginsberg-shaped hole that other people seem to enjoy that i fit into. not enough to pay me, natch. but now i kind of want to return to my old whimsical pyrotechnics self, even if nobody but me really liked it. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. all of this is influenced by seeing a tweet, by the way. burn the portfolio down.
 
-it would obviously be very nice to be commissioned via e-mail but i will settle for being contacted by like-minded people with nice things to say.
+it would obviously be very nice to be commissioned to do whimsy via e-mail but i will settle for being contacted by like-minded people with nice things to say.
 
-dunno what next. maybe an actual story of length with narrative structure and words in a normal order to send off to a magazine, although i can't plot for shit. kicking about an idea for a tv series but i'm well over killing myself to come up with three to six hours of television only to receive negligible interest.
+dunno what next. maybe an actual story of length with narrative structure and words in a normal order to send off to a magazine, although i can't plot for shit. kicking about an idea for a tv series but i'm well over killing myself to come up with three to six hours of television only to receive negligible interest. you can't really publish or broadcast pyrotechnics can you.
 
 **thank you.**
 
