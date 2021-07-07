@@ -44,7 +44,7 @@ trying to write stage plays and animated / live action tv scripts and sitcoms bu
 <br>
 
 ---
-current interest: fuck all. it *was* conceptual poems, and this kind of existential word salad stuff, and i *was* the enjoying ginsberg-shaped hole that other people seem to enjoy that i fit into. not enough to pay me, natch. but now i kind of want to return to my old whimsical pyrotechnics self, even if nobody but me really liked it. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. all of this is influenced by seeing a tweet, by the way. burn the portfolio down.
+current interest: fuck all. it *was* conceptual poems, and this kind of existential word salad stuff, and i *was* enjoying the ginsberg-shaped hole that other people seem to enjoy that i fit into. not enough to pay me, natch. but now i kind of want to return to my old whimsical pyrotechnics self, even if nobody but me really liked it. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. all of this is influenced by seeing a tweet in the last five minutes, by the way. burn the portfolio down.
 
 it would obviously be very nice to be commissioned to do whimsy via e-mail but i will settle for being contacted by like-minded people with nice things to say.
 
