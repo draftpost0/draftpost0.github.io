@@ -3,7 +3,7 @@ layout: default
 ---
   <img src="/assets/img/gatiss.png" alt="Mark Gatiss telling you to fuck off" height="auto" width="200" style="border-radius:50%">
 invariably: 
-> 'a genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
+> 'genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
 
 ## (writer, fuck you pay me, all quotes real and accurate at some point in time)
 
@@ -19,7 +19,7 @@ invariably:
 - 'multi-author' flash fiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-not all that into prose right now but getting rejected by the pie-in-the-sky magazines i like tends to give me a sense of purpose. so more soon, i suppose.
+not all that into prose right now but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose. so more soon, i suppose.
 <br>
 <br>
 <br>
