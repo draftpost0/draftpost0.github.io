@@ -15,7 +15,7 @@ invariably:
 <br>
 <br>
 # PROSE
-### SLITHER MAG 202 (2020) 
+### *SLITHER MAG 202* (2020) 
 - 'multi-author' flash fiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
@@ -24,19 +24,19 @@ i don't do a lot of prose these days, bit dull and boring innit, can't figure ou
 <br>
 <br>
 # POEMS
-### LZ X TLC (2021) 
+### *LZ X TLC* (2021) 
 - AI-assisted mashup poetry pamphlet. a zine(?) exploring my own development as a writer at this time, sort of a time capsule. made in ms publisher eventually because i thought that would be easier (it wasn't). i'm told it needs 'a framework to anchor the reader', but also that it's 'dazzling' and 'highly original': as soon as i know how to square these two positions, or what 'framework to anchor the reader' actually means, you'll be the first to know. 
 <br>
 <br>
 //
 <br>
-### LIKE SOMETHING ELSE NERDS (2021)
+### *LIKE SOMETHING ELSE, NERDS.* (2021)
 - some other 20xx pamphlet just about finished. the art ('art') took time to work up for each one. a poem from it or at least indicative of it is going to be in a small digital magazine soon, under my secret identity because it's quite awkward actually to submit under a pseudonym you haven't even got. i need to work that out. it's also looking likely that bits of it will be out in a poetry press annual in december. if you're here from that, hello.
 <br>
 <br>
 <br>
 # OTHER
-### SUPER POPULAR (2021) 
+### *SUPER POPULAR* (2021) 
 - twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst'. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's playable enough, good apparently, and writing for video games is something i want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
 <br>
 <br>
@@ -49,6 +49,8 @@ current interest: a short story and a novel, maybe, a bit more removed from real
 kicking about an idea for a tv series but i'm well over the sheer effort it takes to come up with three to six hours of television only to receive negligible interest. you can't really publish or broadcast pyrotechnics can you. can't really post the scripts i have written right now as they're either not good or in dev hell somewhere. the longer something i've written is, the harder i find assessing its quality.
 
 it would obviously be very nice to be commissioned to do whimsy via e-mail but i will settle for being contacted by like-minded people with nice things to say.
+
+generally if i write something it's because i'm interested in an idea, the money is good, or i'm being held at gunpoint. choose carefully.
 
 **thank you.**
 ---
