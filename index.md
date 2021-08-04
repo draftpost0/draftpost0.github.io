@@ -49,7 +49,7 @@ guaranteed to blow your mind
 this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
 <br>
 <br>
-[(.pdf)](/cough/likesomethingelse,nerds.pdf)
+[(.pdf)](/cough/LSEN.pdf)
 <br>
 <br>
 <br>
