@@ -5,21 +5,22 @@ layout: default
 invariably: 
 > 'genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
 
-## (writer, fuck you pay me, all quotes real and accurate at some point in time)
+## (writer, fuck you pay me, all quotes real and accurate, criticisms probably justified)
 
-## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)
+## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)*
+*everything on this site is available at no cost to you, so besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
 
 ---
-# COMING SOON TO A WEB SIGHT NEAR YOU 
-(SAMPLES TO COME IN AUGUST, PROBABLY, WHEN ACADEMIA SPITS ME OUT)
-<br>
-<br>
+
 # PROSE
 ### *SLITHER MAG 202* (2020) 
-- 'multi-author' flash fiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
+- short 'multi-author' microfiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-not all that into prose right now but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose. so more soon, i suppose.
+[(.pdf)](/cough/SLITHER 202.pdf)
+<br>
+<br>
+not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
 <br>
 <br>
 <br>
@@ -28,29 +29,49 @@ not all that into prose right now but getting rejected by the pie-in-the-sky mag
 - AI-assisted mashup poetry pamphlet. a zine(?) exploring my own development as a writer at this time, sort of a time capsule. made in ms publisher eventually because i thought that would be easier (it wasn't). i'm told it needs 'a framework to anchor the reader', but also that it's 'dazzling' and 'highly original': as soon as i know how to square these two positions, or what 'framework to anchor the reader' actually means, you'll be the first to know. 
 <br>
 <br>
+i don't think this is conveniently screen-readable because of how it was made, but if you know how to make that work without doing something stupid like 'take screenshots of each page', get in touch. i would appreciate help with it.
+<br>
+<br>
+get with the m-g-m-v-e
+<br>
+guaranteed to blow your mind
+<br>
+<br>
+[(.pdf)](/cough/LZ X TLC.pdf)
+<br>
+<br>
 //
 <br>
 ### *LIKE SOMETHING ELSE, NERDS.* (2021)
-- some other 20xx pamphlet just about finished. the art ('art') took time to work up for each one. a poem from it or at least indicative of it is going to be in a small digital magazine soon, under my secret identity because it's quite awkward actually to submit under a pseudonym you haven't even got. i need to work that out. it's also looking likely that bits of it will be out in a poetry press annual in december. if you're here from that, hello.
+- some other 20xx pamphlet. taking cut-ups and applying them to topics. it's very visual. definitely not a time capsule. it's looking likely that bits of it will be out in a poetry press annual in december. if you're here from that, hello. 
+<br>
+<br>
+this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
+<br>
+<br>
+[(.pdf)](/cough/likesomethingelse,nerds.pdf)
 <br>
 <br>
 <br>
 # OTHER
 ### *SUPER POPULAR* (2021) 
-- twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst'. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's playable enough, good apparently, and writing for video games is something i want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
+- twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst' in it. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's all about working out how to automate the sentence code so i don't end up having to time each one. oh, and i should let the player progress the pages when i do remake it. right now, though, it's playable enough, good apparently, and writing for video games is something i really want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
+<br>
+<br>
+[(.rar) - extract to folder, run index.html](/cough/SUPER POPULAR-final.rar)
 <br>
 <br>
 
 ---
-current interest: something a bit more removed from reality or at least within an actual definable genre so i can at least pitch it successfully. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. all of this is influenced by seeing a tweet in the last five minutes, by the way. burn the portfolio down.
+current interest: trying to work out my current interest. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. whatever else i do needs a reason to exist. all of this is influenced by seeing a tweet in the last five minutes, by the way. burn the portfolio down.
 
-trying to write stage plays and animated / live action tv scripts and sitcoms but they're not good. bulk of what i have is from pyrotechnics era and what isn't is either not the standard i want to achieve or a dangled carrot by a production company saying they can get them made so i don't want to mess that up posting them online. let's say i'm working on all that. the entertainment industry is fucking stupid. i drift away in hope. never journalism.
+i want to and have written a variety of different things  stage plays and animated / live action tv scripts and sitcoms and sketch shows and operas and whatever else it is that i haven't attempted yet. most of these other projects are either driving me mad out of perfectionism or carrots dangled by a production company saying they can get them made so i don't want to mess that up posting them online. the entertainment industry is fucking stupid. let's just say 'scripts' are also something i can do, and if you want to see these i can show you them.
 
-the longer something i’ve written is, the harder i find assessing its quality. shorts suit me.
+the longer something i’ve written is, the harder i find assessing its quality. i look good in shorts.
 
-it would obviously be very nice to be commissioned to do whimsy via e-mail but i will settle for being contacted by like-minded people with nice things to say.
+it would obviously be very nice to be commissioned or employed via e-mail but i will settle for being contacted by like-minded people with nice things to say.
 
-if you are commissioning me (highly unlikely, and if you're really in that tight a spot, reconsider), generally if i write something it's because i'm interested in an idea, the money is good, or i'm being held at knifepoint. choose carefully.
+if you are commissioning me, generally if i write something it's because i'm interested in an idea, the money is good, or i'm being held at knifepoint. choose carefully.
 
 **thank you.**
 
