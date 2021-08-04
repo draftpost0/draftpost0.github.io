@@ -17,7 +17,7 @@ invariably:
 - short 'multi-author' microfiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-[(.pdf)](/cough/SLITHER 202.pdf)
+[(.pdf)](cough/SLITHER 202.pdf)
 <br>
 <br>
 not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
@@ -37,7 +37,7 @@ get with the m-g-m-v-e
 guaranteed to blow your mind
 <br>
 <br>
-[(.pdf)](/cough/LZ X TLC.pdf)
+[(.pdf)](cough/LZ X TLC.pdf)
 <br>
 <br>
 //
@@ -49,7 +49,7 @@ guaranteed to blow your mind
 this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
 <br>
 <br>
-[(.pdf)](https://media.githubusercontent.com/media/draftpost0/draftpost0.github.io/main/cough/LSEN.pdf)
+[(.pdf)](cough/LSEN.pdf)
 <br>
 <br>
 <br>
