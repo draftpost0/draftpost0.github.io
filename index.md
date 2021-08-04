@@ -17,7 +17,7 @@ invariably:
 - short 'multi-author' microfiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-[(.pdf)](cough/SLITHER 202.pdf)
+[(.pdf)](https://media.githubusercontent.com/media/draftpost0/draftpost0.github.io/main/cough/SLITHER%20202.pdf)
 <br>
 <br>
 not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
@@ -37,7 +37,7 @@ get with the m-g-m-v-e
 guaranteed to blow your mind
 <br>
 <br>
-[(.pdf)](cough/LZ X TLC.pdf)
+[(.pdf)](https://media.githubusercontent.com/media/draftpost0/draftpost0.github.io/main/cough/LZ%20X%20TLC.pdf)
 <br>
 <br>
 //
@@ -49,7 +49,7 @@ guaranteed to blow your mind
 this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
 <br>
 <br>
-[(.pdf)](cough/LSEN.pdf)
+[(.pdf)](https://github.com/draftpost0/draftpost0.github.io/raw/main/cough/LSEN.pdf)
 <br>
 <br>
 <br>
@@ -58,7 +58,7 @@ this should be screen-readable: i made it mostly in photoshop so writing alt-tex
 - twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst' in it. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's all about working out how to automate the sentence code so i don't end up having to time each one. oh, and i should let the player progress the pages when i do remake it. right now, though, it's playable enough, good apparently, and writing for video games is something i really want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
 <br>
 <br>
-[(.rar) - extract to folder, run index.html](/cough/SUPER POPULAR-final.rar)
+[(.rar) - extract to folder, run index.html](https://github.com/draftpost0/draftpost0.github.io/raw/main/cough/SUPER%20POPULAR-final.rar)
 <br>
 <br>
 
