@@ -44,6 +44,7 @@ guaranteed to blow your mind
 <br>
 //
 <br>
+<br>
 ### *LIKE SOMETHING ELSE, NERDS.* (2021)
 - some other 20xx pamphlet. taking cut-ups and applying them to topics. it's very visual. definitely not a time capsule. it's looking likely that bits of it will be out in a poetry press annual in december. if you're here from that, hello. 
 <br>
