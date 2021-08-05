@@ -8,7 +8,7 @@ invariably:
 ## (writer, fuck you pay me, all quotes real and accurate, criticisms probably justified)
 
 ## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)*
-*everything on this site is available at no cost to you, so besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
+besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
 
 ---
 
@@ -17,7 +17,7 @@ invariably:
 - short 'multi-author' microfiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-[(.pdf)](https://media.githubusercontent.com/media/draftpost0/draftpost0.github.io/main/cough/SLITHER%20202.pdf)
+[(.pdf)](/cough/SLITHER 202.pdf)
 <br>
 <br>
 not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
@@ -37,7 +37,9 @@ get with the m-g-m-v-e
 guaranteed to blow your mind
 <br>
 <br>
-[(.pdf)](https://media.githubusercontent.com/media/draftpost0/draftpost0.github.io/main/cough/LZ%20X%20TLC.pdf)
+[(.pdf)](/cough/LZ X TLC.pdf) 
+
+<iframe src="https://itch.io/embed/1148368" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/lz-x-tlc">LZ X TLC by https://draftpost0.github.io</a></iframe>
 <br>
 <br>
 //
@@ -49,7 +51,9 @@ guaranteed to blow your mind
 this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
 <br>
 <br>
-[(.pdf)](https://github.com/draftpost0/draftpost0.github.io/raw/main/cough/LSEN.pdf)
+[(.pdf - probably not back up soon - can't afford the bandwidth for selfhosting this for a single day apparently)]()
+
+<iframe src="https://itch.io/embed/1148242" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/like-something-else-nerds">like something else, nerds. by https://draftpost0.github.io</a></iframe>
 <br>
 <br>
 <br>
@@ -58,14 +62,16 @@ this should be screen-readable: i made it mostly in photoshop so writing alt-tex
 - twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst' in it. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's all about working out how to automate the sentence code so i don't end up having to time each one. oh, and i should let the player progress the pages when i do remake it. right now, though, it's playable enough, good apparently, and writing for video games is something i really want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
 <br>
 <br>
-[(.rar) - extract to folder, run index.html](https://github.com/draftpost0/draftpost0.github.io/raw/main/cough/SUPER%20POPULAR-final.rar)
+[(.rar) - extract to folder, run index.html](/cough/SUPER POPULAR-final.rar)
+
+<iframe src="https://itch.io/embed/1148331" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/super-popular">SUPER POPULAR by https://draftpost0.github.io</a></iframe>
 <br>
 <br>
 
 ---
 current interest: trying to work out my current interest. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. whatever else i do needs a reason to exist. all of this is influenced by seeing a tweet in the last five minutes, by the way. burn the portfolio down.
 
-i want to and have written a variety of different things  stage plays and animated / live action tv scripts and sitcoms and sketch shows and operas and whatever else it is that i haven't attempted yet. most of these other projects are either driving me mad out of perfectionism or carrots dangled by a production company saying they can get them made so i don't want to mess that up posting them online. the entertainment industry is fucking stupid. let's just say 'scripts' are also something i can do, and if you want to see these i can show you them.
+i want to and have written a variety of different things. stage plays and animated / live action tv scripts and sitcoms and sketch shows and operas and whatever else it is that i haven't attempted yet. most of these other projects are either driving me mad out of perfectionism or carrots dangled by a production company saying they can get them made so i don't want to mess that up posting them online. the entertainment industry is fucking stupid. let's just say 'scripts' are also something i can do, and if you want to see these i can show you them.
 
 the longer something i’ve written is, the harder i find assessing its quality. i look good in shorts.
 
