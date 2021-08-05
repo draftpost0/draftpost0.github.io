@@ -17,7 +17,7 @@ besides this being the best way to contact me, everything here is available at n
 - short 'multi-author' microfiction anthology about 20xx life and the working for exposure racket. marks the beginning (only the beginning) of experimentation with the written form. visual experimentation hadn't occurred to me yet, or at least it wasn't in the brief, so it looks fairly standard. the voices are all fairly similar, i suppose, but i'd say writing a specific generation is the point.
 <br>
 <br>
-[(.pdf)](/cough/SLITHER 202.pdf)
+[(.pdf)](cough/SLITHER 202.pdf)
 <br>
 <br>
 not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
@@ -37,7 +37,7 @@ get with the m-g-m-v-e
 guaranteed to blow your mind
 <br>
 <br>
-[(.pdf)](/cough/LZ X TLC.pdf) 
+[(.pdf)](cough/LZ X TLC.pdf) 
 
 <iframe src="https://itch.io/embed/1148368" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/lz-x-tlc">LZ X TLC by https://draftpost0.github.io</a></iframe>
 <br>
