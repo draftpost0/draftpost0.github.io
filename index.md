@@ -8,7 +8,7 @@ invariably:
 ## (writer, fuck you pay me, all quotes real and accurate, criticisms probably justified)
 
 ## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)*
-besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
+*besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
 
 ---
 
