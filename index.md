@@ -37,6 +37,9 @@ get with the m-g-m-v-e
 guaranteed to blow your mind
 <br>
 <br>
+32 pp.
+<br>
+<br>
 [(.pdf)](cough/LZ X TLC.pdf) 
 
 <iframe src="https://itch.io/embed/1148368" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/lz-x-tlc">LZ X TLC by https://draftpost0.github.io</a></iframe>
@@ -52,6 +55,9 @@ guaranteed to blow your mind
 this should be screen-readable: i made it mostly in photoshop so writing alt-text was easier. i don't have a way of testing it, though. again, get in touch if i've done it wrong and you know how to fix it.
 <br>
 <br>
+20 pp.
+<br>
+<br>
 [(.pdf - probably not back up soon - can't afford the bandwidth for selfhosting this for a single day apparently)]()
 
 <iframe src="https://itch.io/embed/1148242" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/like-something-else-nerds">like something else, nerds. by https://draftpost0.github.io</a></iframe>
@@ -60,7 +66,7 @@ this should be screen-readable: i made it mostly in photoshop so writing alt-tex
 <br>
 # OTHER
 ### *SUPER POPULAR* (2021) 
-- twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst' in it. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's all about working out how to automate the sentence code so i don't end up having to time each one. oh, and i should let the player progress the pages when i do remake it. right now, though, it's playable enough, good apparently, and writing for video games is something i really want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
+- ~20-30 minute twine prose + poem stream of consciousness thing about a trapped 20xx trans woman. i'm told there's 'humour', 'surreality' and 'angst' in it. it's kind of broken because twine is a piece of shit so remaking it is high on my to do list, but it's all about working out how to automate the sentence code so i don't end up having to time each one. oh, and i should let the player progress the pages when i do remake it. right now, though, it's playable enough, good apparently, and writing for video games is something i really want to do so it's useful to stick this in even though it's more 'interactive story' than 'game'. roll up.
 <br>
 <br>
 [(.rar) - extract to folder, run index.html](/cough/SUPER POPULAR-final.rar)
