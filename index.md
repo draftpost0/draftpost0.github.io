@@ -20,10 +20,6 @@ invariably:
 [(.pdf)](cough/SLITHER 202.pdf)
 <br>
 <br>
-not all that into writing prose but getting rejected by the pie-in-the-sky magazines i like tends to give my life wretched purpose, so more soon, i suppose.
-<br>
-<br>
-<br>
 # POEMS
 ### *LZ X TLC* (2021) 
 - AI-assisted mashup poetry pamphlet. a zine(?) exploring my own development as a writer at this time, sort of a time capsule. made in ms publisher eventually because i thought that would be easier (it wasn't). i'm told it needs 'a framework to anchor the reader', but also that it's 'dazzling' and 'highly original': as soon as i know how to square these two positions, or what 'framework to anchor the reader' actually means, you'll be the first to know. 
