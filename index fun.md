@@ -5,9 +5,9 @@ layout: default
 invariably: 
 > 'genius', 'hilarious and bizarre',  'four pages in and i've already laughed twelve times', 'i'm going to have heard of you in five years', 'this tweet will change your life', 'laughed a lot', '[has] a way of making pain and suffering endearing', 'i shouldn't be laughing at this but i am', 'predictable', 'pyrotechnics', 'i don't think you're allowed to put that', 'yeah that's just their sense of humour', 'really like it but we want to be taken seriously as a production company', 'trying too hard to be funny', 'read someone nice'
 
-## (writer, all quotes real and accurate, criticisms probably justified)
+## (writer, fuck you pay me, all quotes real and accurate, criticisms probably justified)
 
-## e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)*
+## twitter is for cunts, e-mail me: [draftpost0@protonmail.com](mailto:draftpost0@protonmail.com)*
 *besides this being the best way to contact me, everything here is available at no cost to you, so if you like something that much then you can paypal an amount to this address and i won't complain. i don't know how to set up itch.io or gumroad without getting chula vista tangoed by a foreign government.
 
 ---
@@ -58,7 +58,7 @@ this should be screen-readable: i made it mostly in photoshop so writing alt-tex
 20 pp.
 <br>
 <br>
-[(.pdf - probably not back up soon - can't afford the bandwidth)]()
+[(.pdf - probably not back up soon - can't afford the bandwidth for selfhosting this for a single day apparently)]()
 
 <iframe src="https://itch.io/embed/1148242" width="552" height="167" frameborder="0"><a href="https://draftpost0.itch.io/like-something-else-nerds">like something else, nerds. by https://draftpost0.github.io</a></iframe>
 <br>
@@ -76,12 +76,15 @@ this should be screen-readable: i made it mostly in photoshop so writing alt-tex
 <br>
 
 ---
+current interest: trying to work out my current interest. there's only so much realism you can take before cutting off the oxygen supply to your own brain. keep coming up with good ideas then realising hard-hitting clinical depression is not a side effect of comedy and i shouldn't do it. so right now what all this is is an isolated experiment. whatever else i do needs a reason to exist. all of this is influenced by seeing a tweet in the last five minutes, by the way. burn the portfolio down.
 
-i want to and have written a variety of different things. stage plays and animated / live action tv scripts and sitcoms and sketch shows and operas and whatever else it is that i haven't attempted yet. most of these other projects are either driving me mad out of perfectionism or carrots dangled by a production company saying they can get them made so i don't want to mess that up posting them online. the entertainment industry is stupid. let's just say 'scripts' are also something i can do, and if you want to see these i can show you them.
+i want to and have written a variety of different things. stage plays and animated / live action tv scripts and sitcoms and sketch shows and operas and whatever else it is that i haven't attempted yet. most of these other projects are either driving me mad out of perfectionism or carrots dangled by a production company saying they can get them made so i don't want to mess that up posting them online. the entertainment industry is fucking stupid. let's just say 'scripts' are also something i can do, and if you want to see these i can show you them.
 
 the longer something i’ve written is, the harder i find assessing its quality. i look good in shorts.
 
 it would obviously be very nice to be commissioned or employed via e-mail but i will settle for being contacted by like-minded people with nice things to say.
+
+if you are commissioning me, generally if i write something it's because i'm interested in an idea, the money is good, or i'm being held at knifepoint. choose carefully.
 
 **thank you.**
 
